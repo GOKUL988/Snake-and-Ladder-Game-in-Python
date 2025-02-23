@@ -22,8 +22,8 @@
 ## Sample Images 📷 
 ![sample1](samples/src1.png) 
 ## 
-![sample2](samples/src2.png) 
-## 
 ![sample3](samples/src3.png) 
+## 
+![sample2](samples/src2.png) 
 ## 
 ![sample4](samples/src4.png)     
