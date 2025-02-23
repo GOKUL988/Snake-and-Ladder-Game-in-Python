@@ -13,11 +13,11 @@
 1. clone the repository 
 ```bash 
     git clone https://github.com/GOKUL988/Snake-and-Ladder-Game-in-Python.git 
-    ```
+```
 2. Navigate to the project folder 
 ```bash
     cd Snake-and-Ladder-Game-in-Python 
-    ```
+```
 
 ## Sample Images 📷 
 ![sample1](samples/src1.png) 
